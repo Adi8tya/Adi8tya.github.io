@@ -27,7 +27,7 @@
 }
 
 html{
-    font-size: 60.5%;
+    font-size: 61.5%;
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
@@ -153,7 +153,7 @@ section{
 .home .content .hello{
     display: inline-block;
     padding: 1rem 0;
-    font-size: 2.6rem;
+    font-size: 2.5rem;
     color: var(--secondary-text-color);
 }
 
@@ -354,9 +354,9 @@ section{
 
 .about .row .box .exp-box p{
     color: var(--secondary-text-color);
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     padding: 1rem 0;
-    line-height: 1.5;
+    line-height: 1.4;
 }
 
 .about .row .box .exp-box::before{
@@ -422,7 +422,7 @@ section{
 }
 
 .services .box-container .box p{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     color: var(--secondary-text-color);
     padding: 1rem;
     line-height: 1.8;
@@ -501,7 +501,7 @@ section{
 }
 
 .portfolio .image-container .box .info h3{
-    font-size: 2.5rem;
+    font-size: 2.1rem;
     color: var(--primary-text-color);
 }
 
@@ -527,7 +527,7 @@ section{
 
 .blog .box-container .box img{
     width: 100%;
-    height: 20rem;
+    height: 19rem;
     object-fit: cover;
 }
 
@@ -558,7 +558,7 @@ section{
 .blog .box-container .box .content .title{
     color: var(--primary-text-color);
     display: block;
-    font-size: 2.5rem;
+    font-size: 2.1rem;
     padding: .5rem 0;
 }
 
@@ -570,7 +570,7 @@ section{
 .blog .box-container .box .content p{
     color: var(--secondary-text-color);
     padding: .5rem 0;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     line-height: 1.5;
 }
 
