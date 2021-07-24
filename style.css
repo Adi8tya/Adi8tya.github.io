@@ -760,7 +760,7 @@ body.dark-theme{
 @media(max-width: 500px)
 {
     html{
-        font-size: 55%;
+        font-size: 52%;
     }
 
     .services .box-container .box{
