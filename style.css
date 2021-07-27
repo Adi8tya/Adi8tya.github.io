@@ -163,7 +163,7 @@ section{
     padding: .5rem 0;
 }
 
-.home .content .animate{
+.home .content #animate{
     color: var(--secondary-text-color);
 }
 
