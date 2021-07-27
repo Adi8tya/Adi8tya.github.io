@@ -4,6 +4,17 @@ window.addEventListener("load", function(){
 });
 
 $(document).ready(function(){
+ 
+     var typed = new Typed('#animate', {
+        strings: [
+            "front-end developer",
+            "full-stack developer",
+            "programmer",
+        ],
+        typeSpeed: 50,
+        backSpeed: 50,
+        loop: true
+    });
 
     $('#menu').click(function(){
         $(this).toggleClass('fa-times');
