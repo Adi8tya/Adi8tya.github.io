@@ -163,6 +163,10 @@ section{
     padding: .5rem 0;
 }
 
+.home .content .animate{
+    color: var(--secondary-text-color);
+}
+
 .home .content h3{
     color: var(--primary-text-color);
     font-size: 5rem;
