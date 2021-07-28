@@ -398,11 +398,11 @@ section{
     content: '';
     position: absolute;
     top: 0;
-    left: -1rem;
+    left: -.91rem;
     border-radius: 50%;
-    height: 2rem;
-    width: 2rem;
-    background: var(--main-color);
+    height: 1.5rem;
+    width: 1.5rem;
+    background: var(--primary-text-color);
 }
 
 .about .download{
