@@ -592,7 +592,7 @@ section{
 }
 
 .contact .row form{
-    flex: 1 1 40rem;
+    flex: 1 1 45rem;
     background: var(--primary-bg-color);
     padding: 2rem;
     margin: 1rem;
@@ -616,9 +616,9 @@ section{
 }
 
 .contact .row form input, .contact .row form textarea{
-    padding: 1rem 0;
-    margin: 1rem 0;
-    font-size: 1.7rem;
+    padding: .7rem 0;
+    margin: .7rem 0;
+    font-size: 1.5rem;
     border-bottom: .1rem solid var(--secondary-text-color);
     text-transform: none;
     background: none;
@@ -640,7 +640,7 @@ section{
 }
 
 .contact .row form textarea{
-    height: 20rem;
+    height: 15rem;
     resize: none;
 }
 
@@ -657,9 +657,9 @@ section{
 }
 
 .contact .box-container .box{
-    flex: 1 1 30rem;
+    flex: 1 1 28rem;
     margin: 1rem;
-    padding: 3rem 1rem;
+    padding: 2rem 1rem;
     background: var(--primary-bg-color);
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
     border-radius: .5rem;
@@ -667,11 +667,11 @@ section{
 }
 
 .contact .box-container .box i{
-    height: 6rem;
-    width: 6rem;
-    line-height: 6rem;
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
     border-radius: 50%;
-    font-size: 3rem;
+    font-size: 2rem;
     background: var(--secondary-bg-color);
     color: var(--main-color);
 }
