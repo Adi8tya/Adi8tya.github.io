@@ -184,6 +184,30 @@ section{
     line-height: 1.5;
 }
 
+.content .iconsdiv a i{
+    margin-right: 2rem;
+    font-size: 2rem;
+    height: 3.5rem;
+    width: 3.5rem;
+    line-height: 3.5rem;
+    background-color: var(--secondary-text-color);
+    border-radius: 50%;
+    color: var(--primary-bg-color);
+    text-align: center;
+}
+
+.content .iconsdiv{
+    padding: 1rem 0;
+}
+
+.content .iconsdiv a i:hover{
+    transform: rotate(360deg);
+    transition: 1s;
+    color: orange;
+    background: blue;
+}
+
+
 .btn{
     display: inline-block;
     padding: .9rem 3.5rem;
