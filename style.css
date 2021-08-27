@@ -133,6 +133,7 @@ section{
     flex: 1 1 40rem;
     padding: 1rem;
     text-align: center;
+    z-index: 1;
 }
 
 .home .image img{
@@ -148,6 +149,13 @@ section{
 .home .content{
     flex: 1 1 40rem;
     padding: 1rem;
+}
+
+.home #particles-js{
+    position: absolute;
+    top:0; left:0;
+    height:100%;
+    width:100%;
 }
 
 .home .content .hello{
