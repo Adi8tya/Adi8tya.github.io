@@ -192,6 +192,10 @@ section{
     line-height: 1.5;
 }
 
+.content .iconsdiv a{
+    z-index: 1
+}
+
 .content .iconsdiv a i{
     margin-right: 2rem;
     font-size: 2rem;
