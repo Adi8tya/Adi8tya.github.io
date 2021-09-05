@@ -807,6 +807,10 @@ body.dark-theme{
         height: auto;
         width: 100%;
     }
+    
+    .contact .row form textarea {
+    height: 20rem;
+    }
 }
 
 
