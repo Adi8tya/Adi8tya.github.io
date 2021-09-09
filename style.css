@@ -546,6 +546,7 @@ section{
     flex-wrap: wrap;
     opacity: .9;
     transform: scale(0);
+    transition: 1.4s;
 }
 
 .portfolio .image-container .box .info h3{
